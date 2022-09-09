@@ -4,6 +4,7 @@ public class Bubble_Sort {
 
 	public void sort(int array[])
 	{
+		//comment added for testing
 		int size = array.length;
 		
 		for (int i = 0; i < size - 1; i++)
